@@ -1,0 +1,6 @@
+﻿# Compilación y paquetes (se regeneran)
+bin/
+obj/
+packages/
+.vs/
+*.user
